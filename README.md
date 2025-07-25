@@ -1,2 +1,20 @@
-# Resume
-Professional CV made using Latex
+# Full Stack Developer / Software Development Engineer Resume Template
+
+### Tools used:
+
+- Overleaf
+- VS Code
+
+### Files:
+
+- resume.tex: Main file
+- \_header.tex: header code
+- TLCresume.sty: style file containing formatting details
+- section/skills: table of skills
+- section/education: schools and stuff
+- section/activities: optional, could comment out in resume.tex.
+- section/certification: contains certification details with links.
+
+### Credits:
+Author: [Jayesh Padhiar](https://www.github.com/JayeshPadhiar)
+
