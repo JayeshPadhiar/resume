@@ -1,10 +1,7 @@
 # Full Stack Developer / Software Development Engineer Resume Template
 
-### Main Output File: [resume.pdf](https://github.com/JayeshPadhiar/resume/blob/main/resume.pdf) 
+## Main Output File: [resume.pdf](https://github.com/JayeshPadhiar/resume/blob/main/resume.pdf) 
 
-### Tools used:
-- Overleaf
-- VS Code
 
 ### Files:
 - resume.tex: Main file
