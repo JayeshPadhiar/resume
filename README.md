@@ -2,8 +2,8 @@
 
 ## Main Output File: [resume.pdf](https://github.com/JayeshPadhiar/resume/blob/main/resume.pdf) 
 
-
 ### Files:
+
 - resume.tex: Main file
 - \_header.tex: header code
 - TLCresume.sty: style file containing formatting details
@@ -13,5 +13,6 @@
 - section/certification: contains certification details with links.
 
 ### Credits:
+
 Author: [Jayesh Padhiar](https://www.github.com/JayeshPadhiar)
 
